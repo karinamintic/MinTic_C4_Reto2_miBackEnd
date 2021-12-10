@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author USUARIO
  */
 @RestController
-@RequestMapping("/api/supplements")
+@RequestMapping("/api/cosmetics")
 @CrossOrigin("*")
 public class SupplementsController {
        @Autowired
